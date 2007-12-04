@@ -1,6 +1,7 @@
-  #Time costs for Herschel project.
-= Time Costs =
-= Details =
+= Time Costs for Herschel project =
 
-==2007-11-29==
-===2H HttpPool===
+2007-12-04
+  * 3H on HttpPool
+
+2007-11-29
+  * 2H on HttpPool
