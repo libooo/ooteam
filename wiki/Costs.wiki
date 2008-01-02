@@ -1,4 +1,6 @@
 = Time Costs for Herschel project =
+2008-01-02
+  * 1H on HttpPool
 
 2007-12-04
   * 3H on HttpPool
